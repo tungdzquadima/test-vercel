@@ -5,9 +5,7 @@ import UseRef from "./components/useRef";
 function App() {
   return (
     <>
-      <div>Phạm văn tùng</div>
-      {/* <Layout /> */}
-      <UseRef />
+      <h1>Hà Ăn Cứt Anh Tùng</h1>
     </>
   );
 }
